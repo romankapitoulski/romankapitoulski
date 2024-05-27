@@ -1,6 +1,6 @@
 <h1>whois</h1>
   <p>Roman Kapitoulski</p>
-  <p>Web Developer | Information Technology Services Graudate</p>
+  <p>Information Technologist and Web Developer</p>
 <h1>tools</h1>
   <h2>Web Development</h2>
   <ul>
