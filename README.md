@@ -6,7 +6,7 @@
 <p>I'm constantly learning and working with technology.</p>
 <p>I work with computers, networks and security.</p> 
 <p>I build websites.</p>
-<h3>Edcation</h3>
+<h3>Education</h3>
 <p>Information Technology Services Diploma</p>
 <p>Southern Alberta Institute of Technology</p>
 <p>3.84 GPA</p>
