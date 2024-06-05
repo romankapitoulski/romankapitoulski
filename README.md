@@ -1,32 +1,8 @@
-<h1>whois</h1>
-  <p>Roman Kapitoulski</p>
-  <p>Information Technologist and Web Developer</p>
-<h1>tools</h1>
-  <h2>Web Development</h2>
-  <ul>
-    <li>HTML, CSS & JavaScript</li>
-    <li>Python & Django</li>
-    <li>SQLite3</li>
-  </ul>
-  <h2>Game Development</h2>
-  <ul>
-    <li>C#</li>
-    <li>Unity</li>
-  </ul>
-  <h2>Networking</h2>
-  <ul>
-    <li>Cisco Packet Tracer</li>
-  </ul>
-  <h2>Cybersecurity</h2>
-  <ul>
-    <li>nmap</li>
-    <li>Kali</li>
-  </ul>
-  <h2>Virtualization</h2>
-  <ul>
-    <li>VMWare Workstation</li>
-  </ul>
-  <h2>Cloud Computing</h2>
-  <ul>
-    <li>Azure</li>
-  </ul>
+<style>
+  .bold {
+      font-weight: bold;
+  }
+</style>
+<p class="bold">I am Roman Kapitoulski, an Information Technologist and Web Developer.</p>
+<p>I recently graduated and I'm looking for roles involving computers, networks and security.</p>
+<p>I learn about technology and use it to help others.</p>
